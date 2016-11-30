@@ -52,6 +52,16 @@
   </views>
   <instances>
     <instance objName="obj_player" x="544" y="384" name="inst_010C9077" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_asteroid" x="128" y="96" name="inst_52697361" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_asteroid" x="128" y="256" name="inst_DCA40045" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_asteroid" x="672" y="96" name="inst_1C9A5A96" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_asteroid" x="832" y="288" name="inst_2741874C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_asteroid" x="896" y="672" name="inst_2FBECCF0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_asteroid" x="320" y="640" name="inst_56CC8030" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_asteroid" x="128" y="640" name="inst_D308EB34" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_asteroid" x="352" y="160" name="inst_899D9531" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_asteroid" x="672" y="608" name="inst_5FBC3D32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_asteroid" x="224" y="416" name="inst_44068208" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
